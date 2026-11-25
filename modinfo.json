@@ -1,0 +1,1 @@
+{"name":"esphome_bridge","version":"1.0.0","title":"ESPHome Bridge v2","description":"Локальный мост устройств ESPHome для MajorDoMo через HTTP или MQTT.","author":"mambursoft","license":"MIT","category":"hardware"}
